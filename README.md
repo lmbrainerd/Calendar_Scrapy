@@ -1,7 +1,7 @@
 # Calendar_Scrapy
 Cambridge Department of Archaeology Events Calendar Web Scrap
 
-This web scrapping requires Scrapy to run. 
+This web scrapping requires Python 3.7 and the packages Scrapy and icalendar. 
 The necessary scripts are events.py (the spider), pipelines.py (the item pipeline), and setting.py (setting folder 
 indicating there is a pipline).
 
